@@ -11,7 +11,7 @@ Página HTML coontendo minha minibiografia, realizada no Laboratorio de Desenvol
 
 ## Acessando a aplicação
 
-Acesse `http://localhost:8080/minibio-pv` em qualquer navegador.
+Acesse `http://localhost:9090/minibio-pv` em qualquer navegador.
 
 ## Como o projeto foi construído
 
